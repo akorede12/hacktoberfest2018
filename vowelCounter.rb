@@ -6,3 +6,5 @@ i = i + 1
 end
 return current_count
 end
+
+asdfghjkk
